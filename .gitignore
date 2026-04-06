@@ -1,0 +1,20 @@
+# Python
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# App runtime
+app.log
+config.json
+personas.csv
+caras/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
