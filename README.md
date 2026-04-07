@@ -10,7 +10,7 @@ Pues necesitas **Python 3.11+** (con tkinter).
 
 ```bash
 # Clona esto
-git clone https://github.com/TU_USUARIO/fotia.git
+git clone https://github.com/Screen13/fotia.git
 cd fotia
 
 # Crea un entorno virtual (porque si no python es un merder), y te instalas las dependencias.
